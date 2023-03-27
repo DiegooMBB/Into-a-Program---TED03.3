@@ -1,4 +1,4 @@
-print('=========CONVITE DA FESTA DO P1-A=========')                                  #QUESTÃO 4
-nome=input('Digite seu nome: ')                                                      #QUESTÃO 4
-nome = nome.upper()                                                                  #QUESTÃO 4
-print('Olá,', nome,'. Você foi convidado para a festa da Turma do P1-A.')            #QUESTÃO 4
+n1 = float(input('Digite um número: '))
+eq = ((n1+1357)*8)/5
+result=(eq)**2
+print('O resultado da equação é: {:.2f}'.format(result))
